@@ -1,1 +1,3 @@
-pandas, pyjanitor, matplotlib
+pandas
+pyjanitor
+matplotlib
