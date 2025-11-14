@@ -14,5 +14,5 @@ Motor vehicle collisions reported by the New York City Police Department from Ja
 ---
 
 - clck [here](https://github.com/ToheebHub/My-Analysis/blob/main/analysis.ipynb) to check the notebook
-- run it [here]((https://mybinder.org/v2/gh/ToheebHub/My-Analysis/HEAD?filepath=analysis.ipynb)
+- run it [here](https://mybinder.org/v2/gh/ToheebHub/My-Analysis/HEAD?filepath=analysis.ipynb)
 
